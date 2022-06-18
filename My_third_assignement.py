@@ -1,0 +1,8 @@
+print('hello there, you are welcome to my page')
+print("enter firstname")
+firstname = str(input())
+print("enter middlename")
+middlename = str(input())
+print("enter age")
+age = int(input())
+print("Welcome",str(firstname),str(middlename), "you are", int(age),"years old")
